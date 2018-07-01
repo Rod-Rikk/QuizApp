@@ -1,0 +1,84 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">Quiz App</string>
+    <string name="name">Your name</string>
+    <string name="username">Welcome <xliff:g id="username" example="User">%s</xliff:g></string>
+
+    <!--Question 1-->
+    <string name="question1">1.What is the capital of South Korea? </string>
+
+
+    <!--Question 2-->
+    <string name="question2">2.What is the capital of Cuba? </string>
+    <string name="question2_option1">Santo Domingo</string>
+    <string name="question2_option2">San Juan</string>
+    <string name="question2_option3">Havana</string>
+    <string name="question2_option4">Kingston</string>
+
+    <!--Question 3-->
+    <string name="question3">3.What are some major cities in France?</string>
+    <string name="question3_option1">Paris</string>
+    <string name="question3_option2">Venice</string>
+    <string name="question3_option3">Toulouse</string>
+    <string name="question3_option4">Montpellier</string>
+
+    <!--Question 4-->
+    <string name="question4">4. What are the three principal capital cities of South Africa?</string>
+    <string name="question4_option1">Cape Town</string>
+    <string name="question4_option2">Pretoria</string>
+    <string name="question4_option3">Johannesburg</string>
+    <string name="question4_option4">Bloemfontein</string>
+
+    <!--Question 5-->
+    <string name="question5">5. What is the capital of Holland?</string>
+
+    <!--Question 6-->
+    <string name="question6">6. What is the capital of Pakistan?</string>
+    <string name="question6_option1">Kuala Lumpur</string>
+    <string name="question6_option2">Islamabad</string>
+    <string name="question6_option3">Karachi</string>
+    <string name="question6_option4">Geneva</string>
+
+
+    <!--Question 7-->
+    <string name="question7">7.What is the capital of South Sudan?</string>
+    <string name="question7_option1">Juba</string>
+    <string name="question7_option2">Khartoum</string>
+    <string name="question7_option3">Abidjan</string>
+    <string name="question7_option4">Mogadishu</string>
+
+    <!--Question 8-->
+    <string name="question8">8. Which countries bear the same names as their capitals?</string>
+    <string name="question8_option1">Djibouti</string>
+    <string name="question8_option2">Azerbaijan</string>
+    <string name="question8_option3">Kuwait</string>
+    <string name="question8_option4">Haiti</string>
+
+    <!--Question 9-->
+    <string name="question9">9. In which city in the U.S.A can the golden gate bridge be found?</string>
+
+
+
+    <string name="hint">Your Answer</string>
+
+    <string name="finish">Finish</string>
+
+    <string name="reset">Reset</string>
+
+    <string name="email">Email Result</string>
+
+
+    <string name="quiz">Cities of the world Quiz!!!</string>
+    <string name="take_quiz">Take Quiz</string>
+
+    <string name="score">Score:  <xliff:g id="score" example="Score">%d</xliff:g> out of 20.</string>
+
+    <!--Answer for question 1 South Korea-->
+    <string name="answer1">Seoul</string>
+
+    <!--Answer for question 5: Netherlands-->
+    <string name="answer5">Amsterdam</string>
+
+    <!--Answer for question 9: Golden Gate Bridge-->
+    <string name="answer9">San Francisco</string>
+</resources>
+
